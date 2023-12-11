@@ -1,0 +1,10 @@
+Author: Kacper Porada <kacperporada@interia.pl>
+Date:   Mon Dec 11 08:51:53 2023 +0100
+
+    ignorowanie .docx
+
+commit 9361d6d7b631915661aee81dc0e680b9e843ee4e (Glob/master)
+Author: Kacper Porada <kacperporada@interia.pl>
+Date:   Mon Dec 11 08:37:48 2023 +0100
+
+    ciuchcia
